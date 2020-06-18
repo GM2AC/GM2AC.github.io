@@ -46,10 +46,10 @@ Cover
 
 
 .cover--chisiamo{height: 50%;}
-.cover--attivitàricreative{height: 50%;}
-.cover--attivitàsportive{height: 50%;}
+.cover--attivitaricreative{height: 50%;}
+.cover--attivitasportive{height: 50%;}
 .cover--avventure{height: 50%;}
-.cover--Areainformazioni{height: 50%;}
+.cover--areainformazioni{height: 50%;}
 
 
 
@@ -64,17 +64,17 @@ Cards
 .card__copy h3{margin-bottom:0;}
 
 
-.cards--attivitàricreative{max-width: 1200px;margin: 50px auto;}
-.card--attivitàricreative{width: 30%;margin: 0 1.5%;background: #ff9ced;float: left;}
-.card__image--attivitàricreative{width: 100%;height: auto;}
-.card__copy--attivitàricreative{padding:5px 20px;}
-.card__copy--attivitàricreative h3{margin-bottom:0;}
+.cards--attivitaricreative{max-width: 1200px;margin: 50px auto;}
+.card--attivitaricreative{width: 30%;margin: 0 1.5%;background: #ff9ced;float: left;}
+.card__image--attivitaricreative{width: 100%;height: auto;}
+.card__copy--attivitaricreative{padding:5px 20px;}
+.card__copy--attivitaricreative h3{margin-bottom:0;}
 
-.cards--attivitàsportive{max-width: 1200px;margin: 50px auto;}
-.card--attivitàsportive{width: 30%;margin: 0 1.5%;background: #a8d1ff;float: left; color:#000; }
-.card__image--attivitàsportive{width: 100%;height: auto;}
-.card__copy--attivitàsportive{padding:5px 20px;}
-.card__copy--attivitàsportive h3{margin-bottom:0;}
+.cards--attivitasportive{max-width: 1200px;margin: 50px auto;}
+.card--attivitasportive{width: 30%;margin: 0 1.5%;background: #a8d1ff;float: left; color:#000; }
+.card__image--attivitasportive{width: 100%;height: auto;}
+.card__copy--attivitasportive{padding:5px 20px;}
+.card__copy--attivitasportive h3{margin-bottom:0;}
 
 
 
@@ -182,16 +182,16 @@ pagine
 .pagine__copy p{font-size: 18px;}
 }
 
-.pagine--attivitàricreative{}
-.pagine__copy--attivitàricreative{max-width: 800px;margin: 40px auto;background:#ff9ced;padding: 20px;}
-.pagine__copy--attivitàricreative h1{font-size: 30px;}
-.pagine__copy--attivitàricreative p{font-size: 18px;}
+.pagine--attivitaricreative{}
+.pagine__copy--attivitaricreative{max-width: 800px;margin: 40px auto;background:#ff9ced;padding: 20px;}
+.pagine__copy--attivitaricreative h1{font-size: 30px;}
+.pagine__copy--attivitaricreative p{font-size: 18px;}
 }
 
-.pagine--attivitàsportive{}
-.pagine__copy--attivitàsportive{max-width: 800px;margin: 40px auto;background:#61abff;padding: 20px;}
-.pagine__copy--attivitàsportive h1{font-size: 30px;color:#000;}
-.pagine__copy--attivitàsportive p{font-size: 18px;color:#000;}
+.pagine--attivitasportive{}
+.pagine__copy--attivitasportive{max-width: 800px;margin: 40px auto;background:#61abff;padding: 20px;}
+.pagine__copy--attivitasportive h1{font-size: 30px;color:#000;}
+.pagine__copy--attivitasportive p{font-size: 18px;color:#000;}
 }
 
 
@@ -229,9 +229,9 @@ Smartphone
 /*Cards*/
 .card{width: 90%;margin: 5%}
 
-.card--attivitàricreative{width: 90%;margin: 5%}
+.card--attivitaricreative{width: 90%;margin: 5%}
 
-.card--attivitàsportive{width: 90%;margin: 5%}
+.card--attivitasportive{width: 90%;margin: 5%}
 
 .card--avventure1{width: 90%;margin: 5%}
 .card--avventure2{width: 90%;margin: 5%}
